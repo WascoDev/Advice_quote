@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://www.frontendmentor.io/solutions/css-js-html-vsy2pzmGdO)
+- Live Site URL: (https://advicequote.vercel.app/)
 
 ## My process
 
@@ -62,8 +62,8 @@ All thanks to Frontend Mentor. I learn a lot of things in this project, most esp
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@Wasco123](https://www.frontendmentor.io/profile/Wasco123)
-- Twitter - [@Wasco-Dev](https://twitter.com/Wasco_Dev)
+- Website : (https://github.com/WascoDev)
+- Frontend Mentor : (https://www.frontendmentor.io/profile/Wasco123)
+- Twitter : (https://twitter.com/Wasco_Dev)
 
 
